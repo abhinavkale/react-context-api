@@ -2,7 +2,7 @@
   "name": "side-one-context",
   "version": "0.1.0",
   "private": true,
-  "homepages": "https://abhinavkale.gihub.io/react-context-api",
+  "homepages": "https://abhinavkale.github.io/react-context-api",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
